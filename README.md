@@ -1,4 +1,4 @@
-# Project README Example
+# Project - Madlib - CLI
 
 We are deployed on [Link](https://github.com/kevinhenry/madlib-cli!)
 
